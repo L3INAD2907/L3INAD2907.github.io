@@ -4,7 +4,7 @@
 
 En esta web puedes ver un poco de la historia del fútbol, donde se creó, cuando... Además, al final hay una imagen de un balón de fútbol en la cual si haces click va cambiando el balón y puedes ver un poco de la evolución de los balones de fútbol.
 
-Esta web tiene su estructura inspirada en: "De los baby boomers a la Generación T, tenemos una misión: salvar el planeta"
+Esta web tiene su estructura inspirada en: [De los baby boomers a la Generación T, tenemos una misión: salvar el planeta](https://www.abc.es/contentfactory/post/2019/10/24/conproposito-coca-cola-mision-salvar-el-planeta-hagamoslo-juntos/).
 
 * ## CÓDIGOS
 
