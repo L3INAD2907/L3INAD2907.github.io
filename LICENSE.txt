@@ -1,0 +1,20 @@
+IMÁGENES:
+
+	balon_1.png: CC-BY-4.0 
+
+	balon_2.png: CC-BY-4.0 
+
+	balon_3.png: CC-BY-4.0 
+
+	balon_4.png: CC-BY-4.0 
+
+	balon_5.png: CC-BY-4.0 
+
+
+FUENTE DE TEXTO:
+
+	Sans-serif: SIL 1.1
+
+WEB:
+
+	Software: MIT
