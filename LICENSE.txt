@@ -10,8 +10,6 @@ IMÁGENES:
 
 	balon_5.png: CC-BY-4.0 
 
-	images_6.jpg: CC-BY-4.0 
-
 
 FUENTE DE TEXTO:
 
